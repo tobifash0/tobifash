@@ -22,20 +22,16 @@ In this Github Repository, I have presented a range of projects that highlight m
 - ![Freshdesk](https://img.shields.io/badge/-Freshdesk-lightgreen)
 - ![ServiceNow](https://img.shields.io/badge/-ServiceNow-red)
 - ![Jira Service Management](https://img.shields.io/badge/-Jira%20Service%20Management-blue)
-- ![ManageEngine ServiceDesk Plus](https://img.shields.io/badge/-ManageEngine-orange)
-- ![SolarWinds Web Help Desk](https://img.shields.io/badge/-SolarWinds%20Web%20Help%20Desk-yellow)
-- ![SysAid](https://img.shields.io/badge/-SysAid-lightblue)
-- ![BMC Helix ITSM](https://img.shields.io/badge/-BMC%20Helix%20ITSM-purple)
-- ![OTRS](https://img.shields.io/badge/-OTRS-darkblue)
+
 
 ## Advanced Administration
 ![Microsoft Office 365 Admin Center](https://img.shields.io/badge/Microsoft%20Office%20365%20Admin%20Center-0078D7?style=for-the-badge)
 
 ## 🎓 Education and Certifications  
 
--Google IT Support Professional Certificate – Troubleshooting, customer service, networking, operating systems, system administration, and security.
--Google Cybersecurity Professional Certificate – Risk assessment, network security, authentication, vulnerability management, and IDS tools.
--College Ontario Certificate - Web Development and Internet Applications Conestoga College, Waterloo, ON
+- Google IT Support Professional Certificate – Troubleshooting, customer service, networking, operating systems, system administration, and security.
+- Google Cybersecurity Professional Certificate – Risk assessment, network security, authentication, vulnerability management, and IDS tools.
+- College Ontario Certificate - Web Development and Internet Applications Conestoga College, Waterloo, ON
 
 
 ## 🌐 Lets Connect:

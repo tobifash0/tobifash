@@ -33,11 +33,10 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 ## 🎓 Education and Certifications  
 
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)  
-![Google IT Support](https://img.shields.io/badge/Google-IT_Support-blue?logo=google&logoColor=white)  
-![Web Development](https://img.shields.io/badge/Web_Development_%26_Internet_Conestoga_College-blue?logo=code&logoColor=white)  
+-Google IT Support Professional Certificate – Troubleshooting, customer service, networking, operating systems, system administration, and security.
+-Google Cybersecurity Professional Certificate – Risk assessment, network security, authentication, vulnerability management, and IDS tools.
+-College Ontario Certificate - Web Development and Internet Applications Conestoga College, Waterloo, ON
 
-📍 *Conestoga College, Waterloo, ON, Canada*
 
 ## 🌐 Lets Connect:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tobifash/)

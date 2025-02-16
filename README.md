@@ -13,7 +13,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 ## 📦 Tools and Applications
 
 ### Virtualization
-![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-327E36?style=for-the-badge&logo=virtualbox&logoColor=white) (https://www.virtualbox.org/)
+![Oracle VirtualBox](https://www.virtualbox.org/&logoColor=white)
 
 ### 🖥️ IT Helpdesk Tools and Processes
 

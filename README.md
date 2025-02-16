@@ -29,9 +29,9 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 ## 🎓 Education and Certifications  
 
-- Google IT Support Professional Certificate – Troubleshooting, customer service, networking, operating systems, system administration, and security.
-- Google Cybersecurity Professional Certificate – Risk assessment, network security, authentication, vulnerability management, and IDS tools.
-- College Ontario Certificate - Web Development and Internet Applications Conestoga College, Waterloo, ON
+- Google IT Support Professional Certificate 
+- Google Cybersecurity Professional Certificate 
+- College Ontario Certificate - Web Development and Internet Applications (Conestoga College)
 
 
 ## 🌐 Lets Connect:

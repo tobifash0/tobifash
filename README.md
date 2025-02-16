@@ -9,12 +9,13 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 ## 💻 My Web Design Porfolio:
 - [Tobifash.com](https://tobifash.com)
-## Tools and Applications
+  
+## 📦 Tools and Applications
 
 ### Virtualization
 ![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-327E36?style=for-the-badge&logo=virtualbox&logoColor=white) (https://www.virtualbox.org/)
 
-## 🖥️ IT Helpdesk Tools and Processes
+### 🖥️ IT Helpdesk Tools and Processes
 
 - ![Spiceworks](https://img.shields.io/badge/-Spiceworks-blue)
 - ![Zendesk](https://img.shields.io/badge/-Zendesk-green)
@@ -30,11 +31,13 @@ In this Github Repository, I have presented a range of projects that highlight m
 ## Advanced Administration
 ![Microsoft Office 365 Admin Center](https://img.shields.io/badge/Microsoft%20Office%20365%20Admin%20Center-0078D7?style=for-the-badge)
 
-## Certifications
--	Google Cybersecurity Professional Certificate
--	Google IT Support Professional Certificate 
+## 🎓 Education and Certifications  
 
-![Security+](https://img.shields.io/badge/SECURITY%2B-FF4C4C?style=for-the-badge&logo=comptia&logoColor=white)
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google&logoColor=white)  
+![Google IT Support](https://img.shields.io/badge/Google-IT_Support-blue?logo=google&logoColor=white)  
+![Web Development](https://img.shields.io/badge/Web_Development_%26_Internet_Conestoga_College-blue?logo=code&logoColor=white)  
+
+📍 *Conestoga College, Waterloo, ON, Canada*
 
 ## 🌐 Lets Connect:
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tobifash/)

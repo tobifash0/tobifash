@@ -12,17 +12,27 @@ In this Github Repository, I have presented a range of projects that highlight m
 ## Tools and Applications
 
 ### Virtualization
-![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-327E36?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-327E36?style=for-the-badge&logo=virtualbox&logoColor=white) (https://www.virtualbox.org/)
 
-### Helpdesk Tools and Processes
-![Spiceworks](https://img.shields.io/badge/SPICEWORKS-0078D7?style=for-the-badge)
+## 🖥️ IT Helpdesk Tools and Processes
 
-### Advanced Administration
+- ![Spiceworks](https://img.shields.io/badge/-Spiceworks-blue)
+- ![Zendesk](https://img.shields.io/badge/-Zendesk-green)
+- ![Freshdesk](https://img.shields.io/badge/-Freshdesk-lightgreen)
+- ![ServiceNow](https://img.shields.io/badge/-ServiceNow-red)
+- ![Jira Service Management](https://img.shields.io/badge/-Jira%20Service%20Management-blue)
+- ![ManageEngine ServiceDesk Plus](https://img.shields.io/badge/-ManageEngine-orange)
+- ![SolarWinds Web Help Desk](https://img.shields.io/badge/-SolarWinds%20Web%20Help%20Desk-yellow)
+- ![SysAid](https://img.shields.io/badge/-SysAid-lightblue)
+- ![BMC Helix ITSM](https://img.shields.io/badge/-BMC%20Helix%20ITSM-purple)
+- ![OTRS](https://img.shields.io/badge/-OTRS-darkblue)
+
+## Advanced Administration
 ![Microsoft Office 365 Admin Center](https://img.shields.io/badge/Microsoft%20Office%20365%20Admin%20Center-0078D7?style=for-the-badge)
 
 ## Certifications
-•	Google Cybersecurity Professional Certificate
-•	Google IT Support Professional Certificate 
+-	Google Cybersecurity Professional Certificate
+-	Google IT Support Professional Certificate 
 
 ![Security+](https://img.shields.io/badge/SECURITY%2B-FF4C4C?style=for-the-badge&logo=comptia&logoColor=white)
 

@@ -4,7 +4,7 @@ Cyber Security Analyst | IT Support Specialist | WordPress Developer
 In this Github Repository, I have presented a range of projects that highlight my skills in problem-solving, practical application, and utilizing industry-standard tools and approaches to tackle real-world tech difficulties.
 
 ## 👨‍💻 Information Technology Projects:
-- [IT Helpdesk Home Lab Series](https://microsoft.com)
+- [IT Helpdesk Home Lab Series](https://github.com/tobifash0/IT-Helpdesk-Lab-Series)
 - [Microsoft Office 365 Admin Center Home Lab](https://docs.microsoft.com)
 
 ## 💻 My Web Design Porfolio:
